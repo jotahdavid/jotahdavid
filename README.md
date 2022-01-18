@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hello, I'm Jhonatan!
 
-- 👨 I'm 19 years old.</li>
-- 👨‍💻 I'm a FrontEnd student.</li>
+- 👨 I'm 19 years old.
+- 👨‍💻 I'm a FrontEnd student.
 - 📚 I'm currently learning:&nbsp;&nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
   ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
@@ -16,8 +16,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <div align="left">
-<img width="520em" src="https://github-readme-stats.vercel.app/api?username=jotahdavid&show_icons=true&theme=vision-friendly-dark" alt="jotahdavid's stats"/>
-<img width="438em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotahdavid&layout=compact&theme=vision-friendly-dark" alt="jotahdavid's most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=jotahdavid&show_icons=true&theme=vision-friendly-dark" alt="jotahdavid's stats"/>
+<img width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotahdavid&layout=compact&theme=vision-friendly-dark" alt="jotahdavid's most languages"/>
 </div>
 
 <!--
