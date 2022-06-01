@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> Hello, I'm Jhonatan!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hello, I'm Jhonatan!</h1>
 
 - 👨 I'm 19 years old.
 - 👨‍💻 I'm a FrontEnd student.
 - 📚 I'm currently learning **ReactJS/NextJS/TypeScript**.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="46em">&nbsp; Languages and Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="46em" height="46em">&nbsp; Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
