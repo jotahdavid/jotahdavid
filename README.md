@@ -2,7 +2,6 @@
 
 - 👨 I'm 22 years old.
 - 👨‍💻 I'm a FullStack developer.
-- 📚 I'm currently learning about **Web Scrapping**.
 - 📫 How to reach me: <a href="mailto:me@jhonatandavid.com">E-mail</a> or <a href="https://www.linkedin.com/in/jhonatandavid/" target="_blank">LinkedIn</a>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="46em" height="46em">&nbsp; Languages and Tools
