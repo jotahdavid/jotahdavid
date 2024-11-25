@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hello, I'm Jhonatan!</h1>
 
-- 👨 I'm 21 years old.
+- 👨 I'm 22 years old.
 - 👨‍💻 I'm a FullStack developer.
 - 📚 I'm currently learning about **Web Scrapping**.
 - 📫 How to reach me: <a href="mailto:me@jhonatandavid.com">E-mail</a> or <a href="https://www.linkedin.com/in/jhonatandavid/" target="_blank">LinkedIn</a>
